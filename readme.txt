@@ -62,11 +62,7 @@ Tags: FourSquare, iCrunch, iCrunch.co, 4SQ, 4Square, Four Square, FourSquare Che
 * NOTE: I've created this plugin as of my personal interest only. 
 
 == Screenshots ==
-1. Admin Panel Feed Information
-2. Admin Panel Options to show Map Details on Post/Page
-3. Admin Panel Options to show Map Details for Widget
-4. FourSquare Checkins Check-ins (List & Map) on Page/Post
-5. FourSquare Checkins - Sidebar/Widget View in action
+Visit <a href="http://iCrunch.co/foursquare-checkins/">Plugin Homeage</a>. 
 
 == Changelog ==
 
