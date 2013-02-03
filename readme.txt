@@ -59,6 +59,7 @@ Tags: FourSquare, iCrunch, iCrunch.co, 4SQ, 4Square, Four Square, FourSquare Che
 
 = Do you have any question? =
 * Please report your questions or bugs at Plugin <a href="http://iCrunch.co/foursquare-checkins/">Homepage</a>. 
+* NOTE: I've created this plugin as of my personal interest only. 
 
 == Screenshots ==
 1. Admin Panel Feed Information
