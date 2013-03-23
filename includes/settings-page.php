@@ -17,8 +17,8 @@
 <br>
 <h3>Follow us on Twitter & Facebook to get latest update:</h3>
 	
-              <a href="https://twitter.com/CrunchifyCo" class="twitter-follow-button" data-show-count="false"
-                 data-size="large">Follow @CrunchifyCo</a>
+              <a href="https://twitter.com/Crunchify" class="twitter-follow-button" data-show-count="false"
+                 data-size="large">Follow @Crunchify</a>
               <script>!function (d, s, id) {
                   var js, fjs = d.getElementsByTagName(s)[0];
                   if (!d.getElementById(id)) {
