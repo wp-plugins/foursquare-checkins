@@ -1,6 +1,6 @@
 <?php
 /**
- * @author Crunchify.co
+ * @author Crunchify.com
  * Plugin: Foursquare Checkins
  */
 ?>
@@ -11,7 +11,7 @@
 				  <h3 class="hndle"><span>FourSquare Checkins</span></h3>
 				  <div class="inside">
 	                <ul>
-	                <li><a href="http://Crunchify.co/foursquare-checkins/" title="FourSquare Checkins" target="_blank">Plugin Homepage</a></li>
+	                <li><a href="http://Crunchify.com/foursquare-checkins/" title="FourSquare Checkins" target="_blank">Plugin Homepage</a></li>
 	                </ul>
 	              </div>
 				</div>
