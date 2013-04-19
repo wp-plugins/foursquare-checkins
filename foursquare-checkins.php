@@ -3,7 +3,7 @@
 Plugin Name: FourSquare Checkins
 Plugin URI: http://Crunchify.com/foursquare-checkins/
 Description: FourSquare and Wordpress Integration Plugin. Include/Show your FourSquare Checkins along with your Post/Page or in Blog's Sidebar.
-Version: 1.2
+Version: 1.3
 Author: Crunchify
 Author URI: http://Crunchify.com
 */
@@ -144,6 +144,10 @@ function wp_4sq_checkins_options_page() {
 
     if (isset($_POST['info_update']))
     {
+
+    	if (!isset($_POST['my_squarez_update_setting'])) die("<br><br>Hmm .. looks like you didn't send any credentials.. No CSRF for you! ");
+    	if (!wp_verify_nonce($_POST['my_squarez_update_setting'],'square-update-setting')) die("<br><br>Hmm .. looks like you didn't send any credentials.. No CSRF for you! ");
+    	
 		update_option('wp_4sq_checkins_feed_url', stripslashes_deep((string)$_POST["wp_4sq_checkins_feed_url"]));
         update_option('wp_4sq_checkins_feed_count', (string)$_POST["wp_4sq_checkins_feed_count"]);
 
