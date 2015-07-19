@@ -3,13 +3,13 @@
 Plugin Name: FourSquare Checkins
 Plugin URI: http://Crunchify.com/foursquare-checkins/
 Description: FourSquare and Wordpress Integration Plugin. Include/Show your FourSquare Checkins along with your Post/Page or in Blog's Sidebar.
-Version: 1.7
+Version: 1.8
 Author: Crunchify
 Author URI: http://Crunchify.com
 */
  
 /*
-    Copyright (C) 2012-13 Crunchify.com
+    Copyright (C) 2012-15 Crunchify.com
 
     This program is free software; you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
